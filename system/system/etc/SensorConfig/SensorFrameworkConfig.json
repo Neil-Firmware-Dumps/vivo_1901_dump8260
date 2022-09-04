@@ -1,0 +1,12 @@
+{
+ "DriverProxTempCali": 1,
+ "DualOrIncProx": 1,
+ "MinimumBrightHighThreshold": 376,
+ "ScreenOnProxTempCali": 1,
+ "InstantCali": 1,
+ "engineModeForbidSarCali": 1,
+ "MaxBrightness": 4095,
+ "EngineModeRejectReduceSar": 1,
+ "ScreenOnWaitLux": 240,
+ "BoostBrightness": 1681
+}

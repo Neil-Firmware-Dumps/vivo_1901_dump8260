@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config version="2.0">
+    <project-config>
+        <item projects="PD1829,PD1836,PD1838,PD1821,PD1820,PD1824" animation-list="8,7,5,9,11,10,6" icon-list="2" enter-animation="300"/>
+        <item projects="PD1913,PD1914,PD1921" animation-list="8,7,5,9,11,10,6" icon-list="2" enter-animation="300"/>
+        <item projects="PD1816,PD1809,PD1814" animation-list="3,4,0,1,2,8,7,5,9,11,10,6" icon-list="2" enter-animation="300"/>
+        <item projects="PD1832" animation-list="3,0,1,2,8,7,5,9,11,10,6" icon-list="2" enter-animation="300"/>
+        <item projects="PD1805,PD1806" animation-list="0,1,2,8,7,5,9,11,10,6" icon-list="2" enter-animation="300"/>
+        <item projects="PD1728" animation-list="101,0,1,2,8,7,5,9,11,10,6" icon-list="2" enter-animation="300"/>
+        <item projects="PD1923,PD1924" animation-list="12,8,7,11,10" icon-list="2,3" enter-animation="300"/>
+        <item projects="PD1916,PD1922" animation-list="13,8,7,5,9,11,10,6" icon-list="3,2" enter-animation="300"/>
+        <item projects="PD1931" animation-list="8,7,5,9,11,10,6" icon-list="2,3" enter-animation="300"/>
+        <item projects="default" animation-list="8,7,5,9,11,10,6" icon-list="2" enter-animation="300"/>
+    </project-config>
+</config>
